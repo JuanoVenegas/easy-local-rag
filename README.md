@@ -1,3 +1,10 @@
+Forked from: https://github.com/AllAboutAI-YT/easy-local-rag
+
+This fork is for testing purposes and to adapt the tool to use llama3.1 in Spanish.
+
+
+----
+
 # SuperEasy 100% Local RAG with Ollama + Email RAG
 
 ### YouTube Tutorials

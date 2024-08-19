@@ -1,9 +1,11 @@
 vault_file: "vault.txt"
 embeddings_file: "vault_embeddings.json"
-ollama_model: "llama3"
+ollama_model: "llama3.1"
 top_k: 7
-system_message: "You are a helpful assistant that is an expert at extracting the most useful information from a given text"
+# system_message: "You are a helpful assistant that is an expert at extracting the most useful information from a given text"
+# In Spanish
+system_message: "Eres un asistente útil que es un experto en extraer la información más útil de un texto dado"
 
 ollama_api:
   base_url: "http://localhost:11434/v1"
-  api_key: "llama3"
+  api_key: "llama3.1"
